@@ -36,3 +36,4 @@ rigctl [-hiIlLnouV] [-m id] [-r device] [-p device] [-d device]
   1043  Yaesu                  FT-897D                 20210103.0      Stable      RIG_MODEL_FT897D
  
 -r /dev/ttyUSB0 接続先リグのポート
+-p /dev/ttyUSB0 ptt　push to talk 送信の切り替えデバイス接続先
