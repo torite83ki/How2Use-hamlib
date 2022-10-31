@@ -37,3 +37,6 @@ rigctl [-hiIlLnouV] [-m id] [-r device] [-p device] [-d device]
  
 -r /dev/ttyUSB0 接続先リグのポート
 -p /dev/ttyUSB0 ptt　push to talk 送信の切り替えデバイス接続先
+
+$ sudo rigctl -m 1020 -r /dev/ttyUSB0
+
